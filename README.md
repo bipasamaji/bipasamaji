@@ -42,11 +42,10 @@
 ### **Achievements**
 
 - **AI Research Intern @ Outlier (Oct 2024 – May 2025)** – Worked on prompt engineering & agent evaluation  
-- **Upcoming Google Summer Intern (AI/ML Track)**  
+- **Upcoming Google Summer Intern**  
 - **Women Engineer Scholar 2024** – Selected in top 1% nationwide (Google WE Program)  
 - **Smart India Hackathon 2023 Winner** – Disaster Management category  
-- **Delegate, HPAIR Asia Conference 2025**, University of Tokyo  
-- **Joint Secretary, Open Source Software Club (AIT Pune)** – Organized *Innerve 9.0* with 10,000+ participants  
+- **Delegate, HPAIR Asia Conference 2025**, University of Tokyo
 
 ---
 
